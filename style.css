@@ -6,7 +6,7 @@
 
 body {
     font-family: "Pixelify Sans", sans-serif;
-    background-image: url("heart-bg.jpg");
+    background-image: url("assets/heart-bg.jpg");
     background-size: cover;
     background-position: center;
     overflow-x: hidden;
@@ -47,7 +47,7 @@ body {
     max-width: 600px;
     padding: 20px;
     text-align: center;
-    background-image: url("window.png");
+    background-image: url("assets/window.png");
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
